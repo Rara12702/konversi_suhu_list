@@ -1,16 +1,25 @@
-# flutter_map
+# FLUTTER LIST AND MAP
+Nama  : Rara Deninda Hurianto <br/>
+NIM   : 2041720110 <br/>
+Kelas : TI 3C <br/>
 
-A new Flutter project.
+## HASIL PRAKTIKUM
+## 1. Tampilan awal
+<img src="img/1-tampilanAwal.png" alt="drawing" width="300"/>
+<br/>
+<br/>
 
-## Getting Started
+## 2. Mencoba konvert Celcius - Kelvin
+<img src="img/2-kelvin.png" alt="drawing" width="300"/>
+<br/>
+<br/>
 
-This project is a starting point for a Flutter application.
+## 3. Mencoba konvert Celcius - Reamur
+<img src="img/3-reamur.png" alt="drawing" width="300"/>
+<br/>
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 4. Mencoba konvert Celcius - Fahrenheit
+<img src="img/4-fahrenheit.png" alt="drawing" width="300"/>
+<br/>
+<br/>
